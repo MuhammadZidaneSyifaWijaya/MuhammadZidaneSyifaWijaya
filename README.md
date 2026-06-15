@@ -45,7 +45,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 🧬 6. Livestock Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
 * **Description:** Developed a bull selection system in **Python implementing Genetic Algorithms** calibrated to **SNI KPIs**, improving fitness scores by **27.5% across 5 generations**. Normalized a **MySQL database to 3NF** to eliminate redundancies, and deployed a **Machine Learning model** to automate feed ration formulas against **Dry Matter (Bahan Kering) requirements**.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/livestock-genetic-selection-predictive-modeling)
+- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Livestock-Genetic-Selection-Predictive-Modeling-Balai-Inseminasi-Buatan-Lembang)
 
 ---
 
