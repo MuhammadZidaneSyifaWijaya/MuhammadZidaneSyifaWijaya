@@ -37,7 +37,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
   
 ### 🛒 4. Supermarket Sales Dashboard — BNSP Data Analyst Certification
 * **Description:** Built an **ETL pipeline in Advanced Excel** to transform **1,100+ raw retail transactions** from **5 cities** into a standardized, normalized dataset. Applied **PivotTables and Data Table analysis** to deliver dynamic dashboards tracking Total Sales, Cost, and Net Income. Scored **90/100** on the **national BNSP Data Analyst Competency Assessment**.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/supermarket-sales-dashboard-bnsp)
+- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Supermarket-Sales-Dashboard-BNSP-Data-Analyst-Certification)
 
 ### 🚢 5. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
 * **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
