@@ -29,7 +29,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 🚜 2. Heavy Equipment Reliability Analytics — PT Freeport Indonesia
 * **Description:** Queried enterprise SQL databases to extract maintenance and parts records across **500+ heavy equipment units**. Performed **Root Cause Analysis (RCA)** and tracked **MTBF/MTTR metrics**, directly contributing to a **25% improvement in equipment reliability** post-implementation.
-- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/heavy-equipment-reliability-analytics-freeport)](https://github.com/MuhammadZidaneSyifaWijaya/Heavy-Equipment-Reliability-Analytics-PT-Freeport-Indonesia/blob/main/README.md)
+- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/Heavy-Equipment-Reliability-Analytics-PT-Freeport-Indonesia)]
 
 ### 🧬 3. Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
 * **Description:** Architected a centralized Data Mart unifying data from **4 distinct operational departments**. Built **4 interactive Power BI dashboards** using **Design Thinking and Gestalt Principles**, reducing cross-departmental data inconsistencies by **90%** and passing full **User Acceptance Testing (UAT)**.
