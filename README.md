@@ -33,8 +33,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 🧬 3. Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
 * **Description:** Architected a centralized Data Mart unifying data from **4 distinct operational departments**. Built **4 interactive Power BI dashboards** using **Design Thinking and Gestalt Principles**, reducing cross-departmental data inconsistencies by **90%** and passing full **User Acceptance Testing (UAT)**.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/livestock-maintenance-centralized-datamart)
-
+- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/Centralized-Data-Mart-Gestalt-BI-Dashboard-Thesis-Project-BIB-Lembang)]
 ### 🛒 4. Supermarket Sales Dashboard — BNSP Data Analyst Certification
 * **Description:** Built an **ETL pipeline in Advanced Excel** to transform **1,100+ raw retail transactions** from **5 cities** into a standardized, normalized dataset. Applied **PivotTables and Data Table analysis** to deliver dynamic dashboards tracking Total Sales, Cost, and Net Income. Scored **90/100** on the **national BNSP Data Analyst Competency Assessment**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/supermarket-sales-dashboard-bnsp)
