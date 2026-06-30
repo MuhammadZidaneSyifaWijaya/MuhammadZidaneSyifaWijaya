@@ -27,23 +27,19 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 * **Description:** Developed an **8-page executive dashboard** in Power BI consolidating supply chain data from **3 operating subsidiaries**. Built a **VBA Excel Macro pipeline** to automate the processing of **20 raw SAP files**, replacing an entire weekly manual reporting cycle under strict SKK Migas regulations (**PTK 007, A7001**).
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Material-Inventory-Magement-PowerBI-Dashboard)
 
-### 🚜 2. Heavy Equipment Reliability Analytics — PT Freeport Indonesia
-* **Description:** Queried enterprise SQL databases to extract maintenance and parts records across **500+ heavy equipment units**. Performed **Root Cause Analysis (RCA)** and tracked **MTBF/MTTR metrics**, directly contributing to a **25% improvement in equipment reliability** post-implementation.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Heavy-Equipment-Reliability-Analytics-PT-Freeport-Indonesia)
-
-### 🧬 3. Livestock Maintenance Data Mart & Service Power BI Dashboards — Thesis Project (BIB Lembang)
+### 🧬 2. Livestock Maintenance Data Mart & Service Power BI Dashboards — Thesis Project (BIB Lembang)
 * **Description:** Architected a centralized Data Mart unifying data from **4 distinct operational departments**. Built **4 interactive Power BI dashboards** using **Design Thinking and Gestalt Principles**, reducing cross-departmental data inconsistencies by **90%** and passing full **User Acceptance Testing (UAT)**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Livestock-Maintenance-Data-Mart-Service-Power-BI-Dashboards)
   
-### 🛒 4. BNSP Data Analyst Certified Project — Walmart Retail Analysis
+### 🛒 3. BNSP Data Analyst Certified Project — Walmart Retail Analysis
 * **Description:** Built an **ETL pipeline in Advanced Excel** to transform **1,100+ raw retail transactions** from **5 cities** into a standardized, normalized dataset. Applied **PivotTables and Data Table analysis** to deliver dynamic dashboards tracking Total Sales, Cost, and Net Income. Scored **90/100** on the **national BNSP Data Analyst Competency Assessment**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/BNSP-Data-Analyst-Certified-Project-Walmart-Retail-Analysis)
 
-### 🚢 5. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
+### 🚢 4. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
 * **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Order-to-Cash-Sales-Intelligence-Dashboard-PT-United-Tractors-Pandu-Engineering)
 
-### 🧬 6. Bull Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
+### 🧬 5. Bull Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
 * **Description:** Developed a bull selection system in **Python implementing Genetic Algorithms** calibrated to **SNI KPIs**, improving fitness scores by **27.5% across 5 generations**. Normalized a **MySQL database to 3NF** to eliminate redundancies, and deployed a **Machine Learning model** to automate feed ration formulas against **Dry Matter (Bahan Kering) requirements**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/Bull-Genetic-Selection-Predictive-Modeling-Balai-Inseminasi-Buatan-Lembang)
 
